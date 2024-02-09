@@ -1,6 +1,6 @@
 To install the pytube 
 
-Go to the CMD or Terminal and run this below command
+Go to the CMD or Terminal and run this command
 "pip install pytube "
 
 Simply create a new file called yt.py and copy and paste my code into it after running this code. 
